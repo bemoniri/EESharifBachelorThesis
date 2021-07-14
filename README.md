@@ -1,5 +1,5 @@
 # EE Sharif Bachelor Thesis Template
-LaTeX template for Sharif's Electrical Engineering Bachelor Thesis. 
+LaTeX template for Electrical Engineering Bachelor Thesis at Sharif. 
 
 This template is built upon the Sharif PhD thesis template by Prof. Sharifitabar which can be found in http://www.parsilatex.com/. I have made extensive modification to Prof. Sharifitabar's template and it seems that it fulfills the conditions of our department for bachelor theses.
 
